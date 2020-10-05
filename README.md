@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Cj and I'm a Full-Stack Developer. I'm from the United Kingdom, 31 years old, and am currently assisting a group with creating an AI.
+
+I am open for oppurtunites, ranging from web dev upto and including Data Science.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
