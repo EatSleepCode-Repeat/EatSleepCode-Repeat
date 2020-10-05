@@ -32,7 +32,9 @@ I am open for oppurtunites, ranging from web dev upto and including Data Science
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<br>
+
+
+
 - 🔭 I’m currently working on an AI with a group of Computer Science Students.
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on any projects you require assistance with, that are within my remit.
