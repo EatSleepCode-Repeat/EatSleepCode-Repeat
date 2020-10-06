@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cj and I'm a Full-Stack Developer. I'm from the United Kingdom, 31 years old, and am currently assisting a group with creating an AI.
+My name is Cj and I'm a part time Full-Stack Developer and full time investment advisor. I'm from the United Kingdom, 31 years old, and am currently assisting a group with creating an AI.
 
 I am open for oppurtunites, ranging from web dev upto and including Data Science.
 
