@@ -1,3 +1,4 @@
+<img align="center" src="https://escrcreativestudios.co.uk/images/ESCR.png">
 <h1 align="center">Hi 👋, I'm Chris Chris</h1>
 <h3 align="center">Passionate Full-Stack Developer & Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
