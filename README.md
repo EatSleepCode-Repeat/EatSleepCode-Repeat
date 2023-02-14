@@ -1,19 +1,18 @@
-<img align="center" src="https://escrcreativestudios.co.uk/images/ESCR.png">
-<h1 align="center">Hi 👋, I'm Chris Chris</h1>
+<h1 align="center">Hi 👋, I'm Chris Clines</h1>
 <h3 align="center">Passionate Full-Stack Developer & Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Mass Storage Cloud Xfer System**
+- 🔭 I’m currently working on **Mass Storage Cloud Transfer System**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **GDScript**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 📝 I regularly write articles on [https://blog.escrcreativestudios.co.uk](https://blog.escrcreativestudios.co.uk)
+- 📝 I regularly write articles on [https://cjclines.hashnode.dev/](https://cjclines.hashnode.dev/)
 
 - 💬 Ask me about **React, Vite, Tailwind, HTML, CSS, JS**
 
-- 📫 How to reach me **chris@escrcreativestudios.co.uk**
+- 📫 How to reach me **hello@chrisclines.co.uk**
 
 - ⚡ Fun fact **I code too much :D**
 
