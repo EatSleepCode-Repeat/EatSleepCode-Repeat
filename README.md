@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mass Storage Cloud Transfer System**
 
-- 🌱 I’m currently learning **GDScript**
+- 🌱 I’m currently learning **Assemby**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
