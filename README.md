@@ -3,17 +3,11 @@
 
 - 🔭 I’m currently working on **Mass Storage Cloud Transfer System**
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **bash/zshrc**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development and Software Engineering Projects**
 
-- 📝 I regularly write articles on [https://cjclines.hashnode.dev/](https://cjclines.hashnode.dev/)
-
-- 💬 Ask me about **React, Vite, Tailwind, HTML, CSS, JS**
-
-- 📫 How to reach me **hello@chrisclines.co.uk**
-
-- ⚡ Fun fact **I code too much :D**
+- ⚡ Fun fact **I code far too much :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
