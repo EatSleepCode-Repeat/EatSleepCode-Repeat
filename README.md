@@ -9,22 +9,3 @@ I currently lead engineering at [NovaCore Hosting](https://novacorehosting.com).
 ### [bnb](https://github.com/EatSleepCode-Repeat/bnb)
 
 An interactive shell with a Git-aware prompt, command-line editing, searchable history and suggestions. It’s zsh-inspired, not a drop-in zsh replacement; the README documents what it supports and where its boundaries are.
-
-```mermaid
-flowchart LR
-    bnb --> Workflow["Interactive workflow"]
-    bnb --> Shell["Shell features"]
-    bnb --> Config["Configuration"]
-
-    Workflow --> Prompt["Git-aware prompt"]
-    Workflow --> History["Searchable history"]
-    Workflow --> Editing["Line editing & suggestions"]
-    Workflow --> Completion["Command completion"]
-
-    Shell --> Composition["Pipelines & redirection"]
-    Shell --> Expansion["Variables & globbing"]
-    Shell --> Navigation["Directory navigation"]
-
-    Config --> Aliases["Aliases & environment variables"]
-    Config --> Safety["Documented syntax boundaries"]
-```
